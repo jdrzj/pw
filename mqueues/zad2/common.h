@@ -1,0 +1,1 @@
+#ifndef COMMON_H#define COMMON_H#define BUF_SIZE 4#define TEXT_SIZE 100typedef struct{	int nr;	int pocz;	int kon;	int ile;} Message;#endif
